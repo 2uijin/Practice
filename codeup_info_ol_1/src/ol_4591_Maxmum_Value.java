@@ -15,8 +15,7 @@ public class ol_4591_Maxmum_Value {
 				max=num;
 				idx = i;
 			}//if
-		}
-		
+		}	
 		System.out.println(max);
 		System.out.println(idx+1);
 	}
